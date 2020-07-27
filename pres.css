@@ -1,0 +1,16 @@
+div{
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 54px;
+    border: 500px;
+    line-height: 100px;
+    background-color: darkolivegreen;
+}
+
+body{
+    background-color: darkkhaki;
+}
+
+img{
+    height: 200px;
+}
